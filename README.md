@@ -21,6 +21,10 @@
 ## 📽️ **Demo Video**
 A detailed demonstration video will showcase all the key features of the website, including page navigation and the user experience. 
 
+
+https://github.com/user-attachments/assets/65b2ea41-6a97-494e-8908-0a683acc6bb3
+
+
 ## 📥 **Installation**
 1. Clone this repository:  
     ```bash
